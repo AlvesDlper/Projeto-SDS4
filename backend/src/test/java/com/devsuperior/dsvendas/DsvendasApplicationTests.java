@@ -8,6 +8,7 @@ class DsvendasApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Just testing")
 	}
 
 }
